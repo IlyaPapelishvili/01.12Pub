@@ -1,10 +1,5 @@
 
 
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
-
 erwegtewrgv
 
 | First Header  | Second Header |
