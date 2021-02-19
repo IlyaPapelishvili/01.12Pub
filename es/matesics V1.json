@@ -1,42 +1,41 @@
 {
-	"PlanetEarth": [
-
-{
-
-		
-		"population": "9.5 million",
-		"CityCapital": "Minsk"
-	},
-	{
-		"materic": "Asia",
-		"country": "China",
-		"population": "1.386 billion",
-		"CityCapital": "Beijing"
-
-	},
-	{
-		"materic": "Australia",
-		"country": "Australia",
-		"population": "24.6 million",
-		"CityCapital": "Canberra"
-	},
-	{
-		"materic": "Africa",
-		"country": "Egypt",
-		"population": "97.55 million",
-		"CityCapital": "Cairo"
-	},
-	{
-		"materic": "North America",
-		"country": "USA",
-		"population": "327.2 million",
-		"CityCapital": "Washington"
-	},
-	{
-		"materic": "South America",
-		"country": "Brazil",
-		"population": "209.3 million",
-		"CityCapital": "Brasilia"
-	}
-	]
+  "PlanetEarth": [
+    {
+      "CityCapital": "Minsk",
+      "population": "9.5 million",
+      "materic": "Europa",
+      "matefeferic": "Europswdfwsedfe",
+      "country": "Bielorrusia"
+    },
+    {
+      "materic": "Asia",
+      "country": "China",
+      "population": "1.386 billion",
+      "CityCapital": "Beijing"
+    },
+    {
+      "materic": "Australia",
+      "country": "Australia",
+      "population": "24.6 million",
+      "CityCapital": "Canberra"
+    },
+    {
+      "materic": "Africa",
+      "country": "Egypt",
+      "population": "97.55 million",
+      "CityCapital": "Cairo"
+    },
+    {
+      "materic": "North America",
+      "country": "USA",
+      "population": "327.2 million",
+      "CityCapital": "Washington"
+    },
+    {
+      "materic": "South America",
+      "country": "Brazil",
+      "population": "209.3 million",
+      "CityCapital": "Brasilia"
+    }
+  ]
 }
